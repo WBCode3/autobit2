@@ -1,0 +1,11 @@
+﻿.venv/
+user_data/
+*.sqlite*
+*.log
+*.xlsx
+config.json
+!configs/*.example.json
+.env
+*.pem
+*.key
+__pycache__/
